@@ -29,6 +29,25 @@ section ul {
 section ul li {
   flex: 1;
   height: 40px;
+
+}
+
+/* #tab2 ul li.on a {
+  flex: 1;
+  height: 40px;
+  background-color: rgb(143, 238, 198);
+} */
+
+#tab3 ul li.on a {
+  flex: 1;
+  height: 40px;
+  background-color: rgb(143, 211, 238);
+}
+
+#tab4 ul li.on a {
+  flex: 1;
+  height: 40px;
+  background-color: rgb(253, 215, 239);
 }
 
 section ul li a {
@@ -65,9 +84,9 @@ section article div {
 
 }
 
-#tab2 article div {
+/* #tab2 article div {
   background-color: rgb(143, 238, 198);
-}
+} */
 
 #tab3 article div {
   background-color: rgb(143, 211, 238);
